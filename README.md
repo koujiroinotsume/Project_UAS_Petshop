@@ -8,10 +8,13 @@ Proyek ini menerapkan berbagai konsep penting dalam basis data, mulai dari norma
 👥 Profil Kelompok
 
 Dokumentasi dan pengembangan database ini disusun oleh kelompok TRPL25A1:
+
 Hafidh Ridlo Nur Akbar
 🆔 NIM: 250119008
+
 Koujiro Inotsume
 🆔 NIM: 250119014
+
 Program Studi Teknologi Rekayasa Perangkat Lunak
 Universitas Duta Bangsa Surakarta
 
